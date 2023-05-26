@@ -1,4 +1,4 @@
-# Code Dump Repository
+# Test Auto Code Dump Repository
 
 Welcome to the Code Dump repository! This repository serves as a collection of random classes, methods, and other useful bits of code for test automation.
 
